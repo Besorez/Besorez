@@ -7,44 +7,55 @@ Gameplay Systems | Multiplayer | Architecture | Console & VR
 
 ## 🚀 About
 
-I design and own gameplay architecture in Unreal Engine, focusing on server-authoritative systems, clean module boundaries, and production scalability.
-
 10+ years in software engineering  
-5+ years in game development
+5+ years in game development  
 
----
+Full-cycle Unreal Engine development: from prototype to shipped product across multiplayer and cross-platform projects.
+
+Responsible for system architecture, production stability, and aligning gameplay implementation with real production constraints.
 
 ## 🧠 What I Actually Do
 
-- Design gameplay systems that survive production  
-- Build server-authoritative multiplayer with strict ownership rules  
-- Structure Unreal projects into maintainable modules  
-- Drive performance decisions across CPU, GPU, memory, network  
-- Improve team iteration speed through tools and pipelines  
+- Own gameplay systems across the full product lifecycle: proof of concept, prototype, production, and post-release support  
+- Build server-authoritative multiplayer with clear ownership and replication boundaries  
+- Structure Unreal projects into modular, maintainable architecture  
+- Make performance decisions across CPU, GPU, memory, and network  
+- Build tools and pipelines that remove iteration bottlenecks for the team
 
 ---
 
 ## ⚙️ Technical Focus
 
 ### 🎮 Gameplay Architecture
-- GameMode / GameState / PlayerState
-- Gameplay Ability System (GAS)
-- Data-driven systems (Data Assets, Gameplay Tags)
-- Runtime tools for designers
+
+- Build gameplay systems from scratch and bring them to production  
+- Turn design ideas into scalable, data-driven systems  
+- Build tools that let designers iterate without engineering  
+- Implement GAS for abilities, states, and combat logic  
+- Ensure systems hold under multiplayer and performance load  
 
 ### 🌐 Multiplayer
-- Server-authoritative architecture
-- Replication / RPC / relevancy / ownership
-- Dedicated servers & backend integration
+
+- Design server-authoritative gameplay systems  
+- Define replication boundaries, ownership, and relevancy  
+- Implement RPC flows with predictable behavior under load  
+- Deploy and support dedicated server workflows  
+- Integrate external services (EOS, Steam, platform APIs: achievements, stats, sessions)  
+- Support matchmaking, session management, and progression systems  
 
 ### 📊 Performance & Production
-- Profiling (CPU / GPU / Memory / Network)
-- CI/CD, build pipelines, packaging
-- Console certification (TRC / XR)
+
+- Profile and optimize CPU, GPU, memory, and network usage  
+- Set up and maintain CI/CD pipelines, build systems, and packaging flow  
+- Deliver stable builds under console certification requirements (TRC / XR)  
+- Troubleshoot and stabilize builds across production environments  
 
 ### 🕶 Platforms
-- PC, PlayStation, Xbox, Nintendo Switch
-- VR: Meta Quest, PSVR2, OpenXR
+
+- Deliver gameplay systems across PC, consoles (PlayStation, Xbox, Nintendo Switch), and mobile (Android, iOS)  
+- Adapt systems to platform-specific constraints: performance, input, memory, and certification requirements  
+- Optimize and support builds across different hardware targets and form factors  
+- Adapt gameplay systems to VR constraints (Meta Quest, PSVR2, OpenXR)
 
 ---
 
@@ -76,11 +87,11 @@ Focus:
 
 ## 🧱 Engineering Principles
 
-- Systems over features  
-- Data-driven over hardcoded  
-- Server authority as a baseline  
-- Clear ownership boundaries  
-- Maintainable architecture over shortcuts  
+- Reduce rework by building systems that scale beyond initial scope and survive iteration  
+- Cut iteration time by making gameplay data-driven and accessible to designers  
+- Prevent multiplayer issues by enforcing server authority and clear ownership boundaries  
+- Lower maintenance cost through modular architecture and minimal coupling  
+- Keep production stable by prioritizing predictable systems over quick hacks  
 
 ---
 
