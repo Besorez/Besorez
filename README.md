@@ -48,7 +48,17 @@ I design and own gameplay architecture in Unreal Engine, focusing on server-auth
 
 ---
 
-## 🏭 Production Experience
+## 🎮 Selected Work
+
+### 🧬 Total Virus (RTS)
+
+Full-cycle RTS development from scratch: gameplay architecture, core systems, and production setup.
+
+[![Watch Video](https://img.youtube.com/vi/_XNEGvaq_jU/0.jpg)](https://www.youtube.com/watch?v=_XNEGvaq_jU)
+
+---
+
+### 🏭 Production Experience
 
 Worked on shipped and in-production titles:
 
@@ -58,9 +68,9 @@ Worked on shipped and in-production titles:
 - The Eternal Cylinder
 
 Focus:
-- Porting & optimization
-- Cross-platform adaptation
-- Production pipeline integration
+- Porting & optimization  
+- Cross-platform adaptation  
+- Production pipeline integration  
 
 ---
 
