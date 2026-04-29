@@ -1,190 +1,393 @@
+<div align="center">
+
+<img src="./assets/banner-main.png" alt="Vladyslav Popushoi Hero Banner" width="100%" />
+
 # Vladyslav Popushoi
 
-Senior Unreal Engine Developer & Technical Lead  
-Gameplay Systems | Multiplayer | Architecture | Console & VR
+### Senior Unreal Engine Developer & Technical Lead  
+### Gameplay Systems | Multiplayer | Architecture | Console & VR
 
-Building scalable gameplay systems from prototype to production.
+**Building scalable gameplay systems from prototype to production.**
 
----
+<br>
 
-## About
+<p>
+  <a href="https://linkedin.com/in/vladyslav-popushoi-5b23a0205">
+    <img src="https://img.shields.io/badge/LinkedIn-Vladyslav%20Popushoi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:v.popushoi.gamedev.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Besorez">
+    <img src="https://img.shields.io/badge/GitHub-Besorez-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-10+ years in software engineering  
-5+ years in game development  
+<p>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-Senior%20Level-111111?style=flat-square" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Technical%20Leadership-Production%20Ready-111111?style=flat-square" alt="Technical Leadership" />
+  <img src="https://img.shields.io/badge/Multiplayer-Server%20Authoritative-111111?style=flat-square" alt="Multiplayer" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable%20Systems-111111?style=flat-square" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Platforms-PC%20%7C%20Console%20%7C%20Mobile%20%7C%20VR-111111?style=flat-square" alt="Platforms" />
+</p>
 
-I build production-ready Unreal Engine systems across the full game development lifecycle: from early concept and prototype to scalable architecture, team workflows, production stability, platform support, and release preparation.
-
-My strongest value is connecting engineering, game design, production, and team execution into one clear technical direction. I can take a rough gameplay idea, shape it into a working concept, define the system architecture behind it, guide implementation, support the team around it, and bring it to a stable production state.
-
-I work best where gameplay complexity, multiplayer, scalability, performance, and production discipline matter.
-
----
-
-## What I Actually Do
-
-- Own gameplay systems across the full product lifecycle: proof of concept, prototype, production, release support, and future expansion
-- Design technical foundations for gameplay features before they become expensive to rebuild
-- Turn game design ideas into scalable, data-driven Unreal Engine systems
-- Build server-authoritative multiplayer with clear ownership, replication, relevancy, and RPC boundaries
-- Structure Unreal projects into maintainable modules, components, data assets, interfaces, and gameplay systems
-- Set up production workflows, build processes, technical documentation, and team pipelines
-- Reduce iteration bottlenecks for designers, artists, and gameplay teams
-- Mentor developers, review technical decisions, and help teams grow stronger engineering habits
-- Conduct technical interviews and evaluate Unreal Engine developers from both engineering and production perspectives
-- Think critically across the whole project: gameplay, architecture, scope, performance, team capacity, and production risk
+</div>
 
 ---
 
-## Technical Focus
+<div align="center">
+  <img src="./assets/banner-about.png" alt="About Banner" width="100%" />
+</div>
 
-### Gameplay Architecture
+## 🚀 About
+
+I am a Senior Unreal Engine Developer and Technical Lead focused on building production-ready gameplay systems, multiplayer architecture, and scalable technical foundations for games.
+
+I have **10+ years in software engineering** and **5+ years in game development**, with practical experience across the full product lifecycle: from professional concept evaluation and proof of concept, through prototype and vertical slice, to production, stabilization, platform adaptation, and release support.
+
+My strongest value is that I do not think in isolated features. I think in systems, pipelines, production impact, design implications, team structure, and long-term maintainability.
+
+I can take a raw game idea, break it down into gameplay rules and technical requirements, shape it into a coherent production plan, build or lead the core implementation, define scalable architecture, mentor the team around it, and drive the result toward a stable and production-ready state.
+
+I am deeply comfortable at the intersection of:
+
+- gameplay engineering
+- multiplayer architecture
+- production processes
+- technical leadership
+- game design understanding
+- system scalability
+- team growth and mentorship
+
+I work best in projects where engineering quality, gameplay depth, multiplayer correctness, production discipline, and long-term technical vision truly matter.
+
+---
+
+<div align="center">
+  <img src="./assets/banner-value.png" alt="Value Banner" width="100%" />
+</div>
+
+## 💎 What Makes Me Valuable
+
+I am not just a feature owner.
+
+I can operate as a full technical contributor and technical leader who understands how to connect:
+
+- **gameplay goals**
+- **engineering architecture**
+- **production reality**
+- **team workflows**
+- **design iteration**
+- **platform constraints**
+- **delivery quality**
+
+I bring value in several layers at once:
+
+### 🧠 Systems Thinking
+I design systems that survive iteration, content growth, multiplayer complexity, and production pressure.
+
+### 🏗 Technical Foundation
+I can lay down a clean architecture early enough to prevent expensive rework later.
+
+### 🎮 Game Design Awareness
+I understand gameplay feel, player expectations, pacing, clarity, feedback loops, and systemic cohesion, not only code structure.
+
+### ⚙ Production Awareness
+I understand that a good system must be implementable by a real team inside real deadlines and production constraints.
+
+### 👥 Team Leadership
+I can build teams, mentor developers, conduct technical interviews, review architecture, and raise engineering quality standards.
+
+### 📈 Product Lifecycle Ownership
+I can support a feature or a system from concept through release, rather than only implementing a narrow isolated piece.
+
+---
+
+<div align="center">
+  <img src="./assets/banner-do.png" alt="What I Do Banner" width="100%" />
+</div>
+
+## 🧩 What I Actually Do
+
+- Own gameplay systems across the full product lifecycle: concept, proof of concept, prototype, production, release support, and future expansion
+- Turn high-level design ideas into scalable gameplay systems with clear technical structure
+- Design and implement server-authoritative multiplayer systems with clean replication boundaries
+- Build modular Unreal Engine architecture using components, subsystems, interfaces, data assets, and data-driven workflows
+- Set up gameplay systems that are maintainable, extensible, and understandable for the team
+- Make performance-conscious decisions across CPU, GPU, memory, and network usage
+- Build tools and pipelines that remove bottlenecks for designers, artists, and gameplay teams
+- Help structure project workflows, technical documentation, build flow, implementation rules, and review processes
+- Mentor developers and guide teams toward stronger engineering practices
+- Conduct technical interviews and evaluate Unreal Engine developers from both implementation and production perspectives
+- Critically assess technical risk, gameplay feasibility, and production impact before problems become expensive
+- Connect engineering execution with game design intent and product direction
+
+---
+
+<div align="center">
+  <img src="./assets/banner-focus.png" alt="Technical Focus Banner" width="100%" />
+</div>
+
+## ⚙️ Technical Focus
+
+### 🎮 Gameplay Architecture
 
 - Build gameplay systems from scratch and bring them to production
-- Convert abstract design concepts into clear gameplay rules, data structures, and implementation flows
-- Design scalable systems for abilities, interaction, inventory, equipment, AI, UI, progression, and combat
-- Use data-driven architecture to support fast design iteration without constant engineering changes
-- Implement GAS-based systems for abilities, states, effects, combat logic, and player actions
-- Define clean ownership between Character, Controller, GameMode, GameState, PlayerState, components, subsystems, and UI
-- Keep systems modular, testable, extendable, and understandable for the whole team
+- Convert abstract design concepts into gameplay rules, flows, and technical structures
+- Design scalable systems for abilities, combat, interactions, inventory, equipment, progression, AI, UI, and player state
+- Implement data-driven architecture that allows faster iteration and lower maintenance cost
+- Build foundations that remain clean when the project grows in scope
+- Use Unreal Engine architecture responsibly across Character, Controller, GameMode, GameState, PlayerState, components, subsystems, and UI layers
+- Design systems that support both engineering clarity and design flexibility
+- Implement gameplay systems that stay stable under real production pressure
 
-### Multiplayer
+### 🌐 Multiplayer
 
 - Design server-authoritative gameplay systems
-- Define replication boundaries, ownership, relevancy, and network responsibility
-- Implement predictable RPC flows and replicated state under real gameplay load
-- Build multiplayer features with dedicated server workflows in mind
-- Support matchmaking, sessions, progression, persistence, and backend-facing gameplay flows
-- Integrate external services such as EOS, Steam, platform APIs, achievements, stats, and sessions
-- Debug multiplayer edge cases across authority, prediction, timing, state sync, and player lifecycle
+- Define ownership, relevancy, replication boundaries, and network responsibility clearly
+- Build predictable RPC flows and replicated state logic
+- Implement multiplayer systems with dedicated server workflows in mind
+- Handle player lifecycle, session logic, state synchronization, and multiplayer edge cases
+- Integrate external services such as EOS, Steam, achievements, stats, sessions, and related platform-facing systems
+- Support matchmaking, progression, persistence, and multiplayer gameplay flows
+- Debug complex replication behavior and network gameplay issues systematically
 
-### Production Systems & Automation
+### 🏭 Production Systems & Automation
 
-- Set up development workflows that help teams move faster with fewer regressions
-- Create and maintain technical documentation, implementation rules, review standards, and onboarding materials
-- Improve production pipelines around builds, packaging, testing, version control, and release preparation
-- Help teams define task structure, acceptance criteria, MVP boundaries, and technical ownership
-- Automate repetitive production steps where possible
-- Support CI/CD, build pipelines, packaging flow, and project validation
-- Build engineering processes that reduce chaos during active production
+- Improve development workflows so teams can move faster with fewer regressions
+- Set up technical documentation, implementation rules, onboarding materials, and code review culture
+- Help define task boundaries, acceptance criteria, technical ownership, and MVP scope
+- Support CI/CD, build systems, packaging flow, release preparation, and process automation
+- Create structures that reduce chaos during active production
+- Build pipelines that reduce repetitive work and improve delivery confidence
+- Align engineering execution with team capacity and real production constraints
+- Stabilize technical direction so development remains scalable as the project grows
 
-### Performance & Stability
+### 📊 Performance & Stability
 
 - Profile and optimize CPU, GPU, memory, and network usage
 - Identify expensive systems before they become production blockers
-- Stabilize builds across development, QA, demo, and platform-specific environments
-- Make performance decisions based on gameplay impact, hardware targets, and production constraints
-- Optimize systems for multiplayer load, content scale, platform limits, and designer iteration speed
-- Support console certification requirements, including TRC / XR related production constraints
+- Build gameplay features with performance cost in mind from the start
+- Stabilize development and production builds across environments
+- Support optimization across gameplay systems, content load, network pressure, and platform limitations
+- Troubleshoot hard production issues under real project conditions
+- Support console-specific technical requirements and certification-related production needs
 
-### Platforms
+### 🕶 Platforms
 
-- Deliver gameplay systems across PC, PlayStation, Xbox, Nintendo Switch, Android, iOS, and VR
-- Adapt systems to platform-specific constraints: performance, memory, input, storage, networking, and certification
-- Support console and VR production workflows, including platform-specific testing and debugging
-- Work with Meta Quest, PSVR2, OpenXR, DualSense features, console SDKs, and platform APIs
-- Optimize gameplay systems across different hardware targets and form factors
-
----
-
-## Leadership & Production Mindset
-
-I am not only focused on isolated feature delivery. I work as a technical owner who understands how gameplay systems affect production, team velocity, design flexibility, performance, release quality, and long-term maintenance.
-
-I can help a project by:
-
-- Building a technical foundation from zero
-- Turning a game concept into a real production plan
-- Defining gameplay systems before implementation starts
-- Creating architecture that supports future content and team growth
-- Hiring and evaluating developers
-- Mentoring junior and middle developers
-- Setting up development rules, review culture, documentation, and delivery flow
-- Helping founders and producers understand technical risks before they become expensive
-- Keeping scope, quality, and production reality connected
-
-My goal is to build systems that save time, reduce rework, and allow the team to move faster without losing engineering quality.
+- Deliver gameplay systems across PC, consoles, mobile, and VR
+- Adapt systems to platform-specific input, memory, performance, and certification constraints
+- Work across PlayStation, Xbox, Nintendo Switch, Android, iOS, Meta Quest, PSVR2, and OpenXR contexts
+- Support platform adaptation and cross-platform production realities
+- Understand practical differences between hardware targets and how they affect architecture and implementation
+- Build systems that remain flexible across multiple platform requirements
 
 ---
 
-## Game Design & Player Experience
+<div align="center">
+  <img src="./assets/banner-leadership.png" alt="Leadership Banner" width="100%" />
+</div>
 
-I care deeply about how systems feel, not only how they are coded.
+## 👑 Leadership & Product Ownership
 
-I have 30+ years of gaming experience across PC, consoles, handhelds, retro systems, arcade-style design, old-school shooters, RTS, action RPGs, survival horror, immersive systems, and modern production pipelines.
+I can operate as a technical lead, not only as an individual developer.
 
-This helps me evaluate gameplay features from both sides:
+That includes the ability to:
 
-- as an engineer who can build the system correctly
-- as a player who understands feel, pacing, clarity, feedback, usability, and long-term engagement
+- build a team from zero
+- define technical direction early
+- evaluate architecture before implementation scales out
+- mentor junior and middle developers
+- raise code quality and review quality
+- conduct technical interviews
+- align engineering decisions with project goals
+- connect design ideas with technical reality
+- establish clear development standards and workflows
+- reduce rework by making better foundational decisions
 
-I am especially strong at turning a high-level game idea into a working gameplay loop, then supporting it with proper systems, technical constraints, and production logic.
+I am comfortable taking ownership of systems that influence the whole project rather than just one isolated feature.
 
-I also collect and study retro consoles, which gives me a practical understanding of game history, platform limitations, input design, hardware constraints, and why many older games still feel strong today.
+I care about:
+
+- long-term maintainability
+- scope control
+- scalability
+- technical clarity
+- sustainable production
+- delivery quality
+- team growth
+
+I understand that in real production a senior technical leader is valuable not because they write more code lines, but because they help the whole project move in the right direction with fewer mistakes, fewer rebuilds, better architecture, and more confidence in execution.
 
 ---
 
-## Selected Work
+<div align="center">
+  <img src="./assets/banner-gamedesign.png" alt="Game Design Banner" width="100%" />
+</div>
 
-### Total Virus
+## 🎯 Game Design Understanding
+
+I am deeply comfortable discussing and evaluating gameplay as a system, not only as code.
+
+That means I can work with:
+
+- gameplay loops
+- player motivation
+- clarity and readability
+- feedback systems
+- pacing
+- progression
+- combat logic
+- risk/reward structure
+- systemic interaction
+- production feasibility of mechanics
+
+I can take a professional concept or design direction and help transform it into a real implementation plan with proper architecture behind it.
+
+This is important because many technical problems start earlier, at the design-to-system translation phase. I am strong at closing that gap.
+
+I do not separate technical work from gameplay intent. I believe strong gameplay systems come from understanding both sides together.
+
+---
+
+<div align="center">
+  <img src="./assets/banner-player.png" alt="Player Perspective Banner" width="100%" />
+</div>
+
+## 🎮 Player Perspective & Gaming Background
+
+I have **30+ years of gaming experience**.
+
+That gives me a strong player-side intuition for:
+
+- what feels good
+- what feels clunky
+- what makes a mechanic readable
+- what creates friction
+- what makes feedback satisfying
+- what gives systems depth
+- what keeps a loop interesting
+- what breaks immersion
+- what makes design age well
+
+I also have a deep interest in game history and hardware culture.
+
+I am a **retro gamer and collector of old-school consoles**, which gives me a broad perspective on:
+
+- design evolution across generations
+- hardware limitations and why they matter
+- control schemes and input expectations
+- why older games often achieved strong gameplay with limited resources
+- how platform context shapes mechanics and player experience
+
+This background helps me judge systems not only as an engineer, but also as a long-term player who understands the medium deeply.
+
+---
+
+<div align="center">
+  <img src="./assets/banner-work.png" alt="Selected Work Banner" width="100%" />
+</div>
+
+## 🎮 Selected Work
+
+### 🧬 Total Virus
 
 Full-cycle RTS development from scratch: gameplay architecture, core systems, production setup, and long-term technical direction.
 
-[![Watch Video](https://img.youtube.com/vi/_XNEGvaq_jU/0.jpg)](https://www.youtube.com/watch?v=_XNEGvaq_jU)
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=_XNEGvaq_jU">
+  <img src="https://img.youtube.com/vi/_XNEGvaq_jU/maxresdefault.jpg" alt="Total Virus Video" width="80%" />
+</a>
+
+</div>
+
+<div align="center">
+  <sub>Click the preview to watch the video</sub>
+</div>
 
 ---
 
-### Production Experience
+### 🏭 Production Experience
 
-Worked on shipped and in-production titles:
+Worked on shipped and in-production titles, including:
 
 - Five Nights at Freddy’s
 - Star Wars: Hunters
 - Strayed Lights
 - The Eternal Cylinder
 
-Focus areas:
+### 🔧 Focus Areas in Production
 
-- Porting and optimization
-- Cross-platform adaptation
-- Console and VR support
-- Gameplay systems support
-- Production pipeline integration
-- Platform-specific debugging and stabilization
+- porting and optimization
+- cross-platform adaptation
+- gameplay systems support
+- console and VR support
+- production pipeline integration
+- technical stabilization
+- platform-specific debugging
+- delivery support under production constraints
 
 ---
 
-## Engineering Principles
+<div align="center">
+  <img src="./assets/banner-principles.png" alt="Engineering Principles Banner" width="100%" />
+</div>
 
-- Build systems that survive iteration, content growth, and production pressure
-- Reduce rework through clear ownership, modular architecture, and data-driven design
-- Keep gameplay logic understandable for engineers, designers, and production
+## 🧱 Engineering Principles
+
+- Build systems that survive iteration, feature growth, and production pressure
+- Reduce rework by making foundational decisions carefully
+- Keep gameplay systems scalable beyond their first implementation phase
+- Prefer modular architecture and clear ownership over monolithic shortcuts
+- Keep data-driven workflows wherever they reduce iteration cost
 - Use server authority as the baseline for multiplayer decisions
-- Separate responsibilities between systems instead of creating feature-heavy monoliths
-- Make tools and workflows that reduce dependency on engineering for every small change
-- Prefer predictable, maintainable systems over short-term hacks
-- Treat performance, scalability, and production stability as part of the feature
-- Document decisions so the team can move without constantly rediscovering context
-- Keep technical direction aligned with the actual product, team, schedule, and platform targets
+- Minimize coupling and preserve clarity of responsibility
+- Treat performance, scalability, and maintainability as part of the feature itself
+- Make systems understandable for the whole team, not only for the original implementer
+- Value predictability and technical discipline over unstable quick hacks
+- Support production stability through process quality, not only through firefighting
+- Keep technical direction aligned with actual product needs and real team capacity
 
 ---
 
-## What I Bring to a Team
+<div align="center">
+  <img src="./assets/banner-team.png" alt="Team Banner" width="100%" />
+</div>
+
+## 👥 What I Bring to a Team
 
 - Senior Unreal Engine gameplay engineering
-- Technical leadership for small and mid-sized teams
-- Full-cycle feature ownership
-- Gameplay architecture and system design
-- Multiplayer and dedicated server experience
-- Production process setup and automation
-- Technical documentation and code review culture
-- Mentorship and developer evaluation
-- Cross-platform and console-aware development
+- Strong gameplay architecture thinking
+- Server-authoritative multiplayer expertise
+- Full-cycle system ownership
+- Technical leadership for teams and projects
+- Production process understanding
+- Development workflow improvement
+- Technical documentation and review culture
+- Mentorship and developer growth support
+- Technical interviews and team evaluation
 - Product-level critical thinking
-- Strong game design intuition backed by long-term player experience
+- Game design awareness
+- Cross-platform and console-aware development
+- Practical understanding of VR and platform constraints
+- Strong long-term focus on system quality and scalability
 
 ---
 
-## Contact
+<div align="center">
+  <img src="./assets/banner-contact.png" alt="Contact Banner" width="100%" />
+</div>
 
-- LinkedIn: https://linkedin.com/in/vladyslav-popushoi-5b23a0205
-- Email: v.popushoi.gamedev.work@gmail.com
+## 📫 Contact
+
+- **LinkedIn:** https://linkedin.com/in/vladyslav-popushoi-5b23a0205
+- **Email:** v.popushoi.gamedev.work@gmail.com
+
+---
+
+<div align="center">
+
+### 🛠 Tech Leadership | Gameplay Systems | Multiplayer Architecture | Production-Ready Development
+
+</div>
