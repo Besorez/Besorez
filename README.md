@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner-main.png" alt="Vladyslav Popushoi Hero Banner" width="100%" />
-
 # Vladyslav Popushoi
 
 ### Senior Unreal Engine Developer & Technical Lead  
@@ -35,10 +33,6 @@
 
 ---
 
-<div align="center">
-  <img src="./assets/banner-about.png" alt="About Banner" width="100%" />
-</div>
-
 ## 🚀 About
 
 I am a Senior Unreal Engine Developer and Technical Lead focused on building production-ready gameplay systems, multiplayer architecture, and scalable technical foundations for games.
@@ -62,10 +56,6 @@ I am deeply comfortable at the intersection of:
 I work best in projects where engineering quality, gameplay depth, multiplayer correctness, production discipline, and long-term technical vision truly matter.
 
 ---
-
-<div align="center">
-  <img src="./assets/banner-value.png" alt="Value Banner" width="100%" />
-</div>
 
 ## 💎 What Makes Me Valuable
 
@@ -103,10 +93,6 @@ I can support a feature or a system from concept through release, rather than on
 
 ---
 
-<div align="center">
-  <img src="./assets/banner-do.png" alt="What I Do Banner" width="100%" />
-</div>
-
 ## 🧩 What I Actually Do
 
 - Own gameplay systems across the full product lifecycle: concept, proof of concept, prototype, production, release support, and future expansion
@@ -123,10 +109,6 @@ I can support a feature or a system from concept through release, rather than on
 - Connect engineering execution with game design intent and product direction
 
 ---
-
-<div align="center">
-  <img src="./assets/banner-focus.png" alt="Technical Focus Banner" width="100%" />
-</div>
 
 ## ⚙️ Technical Focus
 
@@ -184,10 +166,6 @@ I can support a feature or a system from concept through release, rather than on
 
 ---
 
-<div align="center">
-  <img src="./assets/banner-leadership.png" alt="Leadership Banner" width="100%" />
-</div>
-
 ## 👑 Leadership & Product Ownership
 
 I can operate as a technical lead, not only as an individual developer.
@@ -221,10 +199,6 @@ I understand that in real production a senior technical leader is valuable not b
 
 ---
 
-<div align="center">
-  <img src="./assets/banner-gamedesign.png" alt="Game Design Banner" width="100%" />
-</div>
-
 ## 🎯 Game Design Understanding
 
 I am deeply comfortable discussing and evaluating gameplay as a system, not only as code.
@@ -249,10 +223,6 @@ This is important because many technical problems start earlier, at the design-t
 I do not separate technical work from gameplay intent. I believe strong gameplay systems come from understanding both sides together.
 
 ---
-
-<div align="center">
-  <img src="./assets/banner-player.png" alt="Player Perspective Banner" width="100%" />
-</div>
 
 ## 🎮 Player Perspective & Gaming Background
 
@@ -283,10 +253,6 @@ I am a **retro gamer and collector of old-school consoles**, which gives me a br
 This background helps me judge systems not only as an engineer, but also as a long-term player who understands the medium deeply.
 
 ---
-
-<div align="center">
-  <img src="./assets/banner-work.png" alt="Selected Work Banner" width="100%" />
-</div>
 
 ## 🎮 Selected Work
 
@@ -330,10 +296,6 @@ Worked on shipped and in-production titles, including:
 
 ---
 
-<div align="center">
-  <img src="./assets/banner-principles.png" alt="Engineering Principles Banner" width="100%" />
-</div>
-
 ## 🧱 Engineering Principles
 
 - Build systems that survive iteration, feature growth, and production pressure
@@ -350,10 +312,6 @@ Worked on shipped and in-production titles, including:
 - Keep technical direction aligned with actual product needs and real team capacity
 
 ---
-
-<div align="center">
-  <img src="./assets/banner-team.png" alt="Team Banner" width="100%" />
-</div>
 
 ## 👥 What I Bring to a Team
 
@@ -374,10 +332,6 @@ Worked on shipped and in-production titles, including:
 - Strong long-term focus on system quality and scalability
 
 ---
-
-<div align="center">
-  <img src="./assets/banner-contact.png" alt="Contact Banner" width="100%" />
-</div>
 
 ## 📫 Contact
 
